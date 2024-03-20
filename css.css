@@ -1,0 +1,54 @@
+body {
+    font-family: Exo\ 2;
+    line-height: 1.2;
+    margin: 0;
+    overflow: hidden;
+    margin-top: 0;
+    font-weight: 500;
+    font-size: 1rem;
+    background: #16db5e;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    --black: #000;
+    --white: #fff;
+    --primary-1: #212027; 
+    --primary-2: #212027;
+    --primary-3: #212027;
+    --orange-1: #ff7a00;
+    --secondary-1: #252525;
+    --secondary-2: #252525;
+    --secondary-3: #252525;
+    --secondary-4: #ffffff;
+    --secondary-5: #7c6b8d00; /*side menu thingy*/
+    --secondary-6: #00000000;
+    --purple-1: #6f3073;
+    --purple-2: #af51e6;
+    --purple-3: #692c8c;
+    --red-1: #e24f4f;
+    --red-2: #f66;
+    --red-3: #cb1414;
+    --red-4: #e73c3c;
+    --red-5: #e73131;
+    --blue-1: #453ad4;
+    --blue-2: #545ffc;
+    --blue-3: #222aa0;
+    --blue-4: #2f80ed;
+    --blue-5: #4f94f1;
+    --blue-6: #256fd3;
+    --green-1: #1cce6c;
+    --green-2: #24ff2f;
+    --green-3: #07960e;
+    --green-4: #35e785;
+    --black-5: #1a1f2e; /* thing behind level number*/
+    --gray-1: #f2f2f2;
+    --gray-2: #bdbdbd;
+}
+.logo[data-v-6faaf64b] {
+  content: url(https://epiktoast.github.io/trennn.png)
+}
+.live-streams, quests {
+    background: transparent !important;
+    border: none !important;
+}
