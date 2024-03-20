@@ -41,7 +41,7 @@ body {
     --green-2: #24ff2f;
     --green-3: #07960e;
     --green-4: #35e785;
-    --black-5: #1a1f2e; /* thing behind level number*/
+    --black-5: #FFFFFF; /* thing behind level number*/
     --gray-1: #f2f2f2;
     --gray-2: #bdbdbd;
 }
